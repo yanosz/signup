@@ -1,0 +1,5 @@
+Hallo,
+$user.firstName $user.lastName ($user.email - Einheit: $user.unit) hat einen Account beantragt.
+Bitte bestätige den Antrag unter $tokenUrl .
+
+Gruß, das thw-koeln.de-Team

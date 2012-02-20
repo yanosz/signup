@@ -1,0 +1,10 @@
+Hallo $user.firstName $user.lastName, 
+
+Auf thw-koeln.de wurde das Zurücksetzen des Kennworts für Dein Konto angefordert. 
+Das Kennwort gilt auch für das Forum https://thw-koeln.de/forum
+
+Bitte rufe die folgende Addresse auf um ein neues Kennwort zu setzen:
+$tokenUrl
+
+
+Gruß, das thw-koeln.de

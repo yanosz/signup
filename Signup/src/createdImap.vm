@@ -1,0 +1,21 @@
+Hallo $user.firstName $user.lastName,  
+
+wir haben für Dich einen Account und die E-Mail Adresse ${user.cn}@thw-koeln.de erstellt.
+Du kannst Dich unter http://thw-koeln.de/extras anmelden:
+Benutzername: $user.cn
+Passwort: $passwd
+
+E-Mails, die an ${user.cn}@thw-koeln.de geschickt werden, werden in Deiner Mailbox abgelegt. Bitte achte darauf, dass Deine Mailbox eine Größe von 50MB nicht überschreitet.
+WebMail: https://thw-koeln.de/roundcube (Benutzer: $user.cn - Kennwort: $passwd)
+SMTP: thw-koeln.de (Benutzer: $user.cn@thw-koeln.de - Kennwort: $passwd)
+POP3 / IMAP: thw-koeln.de (Benutzer: $user.cn - Kennwort: $passwd)
+
+Gleichzeitig bist Du - je nach Gruppenzugehörigkeit - in einigen E-Mail Verteilern eingetragen. Welche es gibt findest Du unter: https://thw-koeln.de/trac/wiki/doku/mailinglisten (**) Weitere Infos zu Deinem Benutzerkonto findest Du außerdem unter https://thw-koeln.de/trac/wiki/E-Mail.
+
+Darüber hinaus haben wir:
+- Eine Wiki (https://thw-koeln.de/) - Dokumentation, Know-How etc. aus unserem OV
+- Ein Forum (https://thw-koeln.de/forum)
+
+Gruß, das thw-koeln.de-Team
+
+(**): Du musst Dich hier mit Deinem Benutzernamen anmelden

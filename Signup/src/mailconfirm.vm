@@ -1,0 +1,8 @@
+Hallo $user.firstName,  
+
+der erste Schritt zur Anmeldung ist geschafft. 
+Bitte bestätige nun die Richtigkeit Deiner E-Mail-Adresse:
+Rufe dazu die folgende Internet-Adresse auf:
+$tokenUrl
+
+Gruß, das thw-koeln.de-Team
