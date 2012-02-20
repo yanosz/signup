@@ -13,8 +13,8 @@ passwords.
 Building, etc.
 ----------------
 The application is written in Java (using Google Web Toolkit) and build via
-GWT (no ant / maven / ivy) stuff is used.
-The workflow is tracked in sqlite, all confirmed accounts are written to
+GWT (no ant / maven / ivy).
+The Account-workflow is tracked in sqlite, all confirmed accounts are written to
 ldap.
 
 Misc
