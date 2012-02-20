@@ -14,7 +14,7 @@ Building, etc.
 ----------------
 The application is written in Java (using Google Web Toolkit) and build via
 GWT (no ant / maven / ivy).
-The Account-workflow is tracked in sqlite, all confirmed accounts are written to
+The Account-workflow is tracked in Apache derby, all confirmed accounts are written to
 ldap.
 
 Misc
